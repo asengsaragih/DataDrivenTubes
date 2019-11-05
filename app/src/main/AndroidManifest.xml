@@ -20,41 +20,41 @@
             android:configChanges="orientation"
             android:label="@string/cicil_activity_title"
             android:parentActivityName=".MainActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="userPortrait"/>
         <activity
             android:name=".ChartActivity"
             android:configChanges="orientation"
             android:label="@string/chart_activity_title_name"
             android:parentActivityName=".MainActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="userPortrait" />
         <activity
             android:name=".TentangActivity"
             android:configChanges="orientation"
             android:label="@string/about_application_title_name"
             android:parentActivityName=".SettingActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="userPortrait" />
         <activity
             android:name=".SettingActivity"
             android:configChanges="orientation"
             android:label="@string/setting_activity_title_name"
             android:parentActivityName=".MainActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="userPortrait" />
         <activity
             android:name=".HistoryActivity"
             android:configChanges="orientation"
             android:label="@string/history_activity_title_name"
             android:parentActivityName=".MainActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="userPortrait" />
         <activity
             android:name=".FormActivity"
             android:configChanges="orientation"
             android:parentActivityName=".MainActivity"
-            android:screenOrientation="portrait"
+            android:screenOrientation="userPortrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
         <activity
             android:name=".MainActivity"
             android:configChanges="orientation"
-            android:screenOrientation="portrait">
+            android:screenOrientation="userPortrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
