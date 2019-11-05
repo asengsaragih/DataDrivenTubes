@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254469712083",
+    "firebase_url": "https://utang-be814.firebaseio.com",
+    "project_id": "utang-be814",
+    "storage_bucket": "utang-be814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254469712083:android:3f12cb52976f3ed0abcc26",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.utang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254469712083-vir0oavahqbffkslom0vq2ak6p1a0ieo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkFgSfB0-vkEW9LUrY-Dre6qClpK5K8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254469712083-vir0oavahqbffkslom0vq2ak6p1a0ieo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

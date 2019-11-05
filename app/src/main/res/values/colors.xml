@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#32253D</color>
+    <color name="colorPrimaryDarkForPicker">#0A0101</color>
+    <color name="colorAccent">#D81B60</color>'
+    <color name="colorRed">#ff0000</color>
+    <color name="colorRedTransparent">#B3FF0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="gray">#797575</color>
+
+    
+    <color name="colorBlue">#2464c9</color>
+    <color name="colorOrange">#f0a924</color>
+    <color name="colorGreen">#1bc21b</color>
+    <color name="colorRedDark">#C52230</color>
+
+</resources>
