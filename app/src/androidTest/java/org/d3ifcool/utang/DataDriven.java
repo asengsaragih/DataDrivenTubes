@@ -1,4 +1,4 @@
-package org.d3ifcool.utang.UnitTest;
+package org.d3ifcool.utang;
 
 import android.text.TextUtils;
 import android.widget.DatePicker;
@@ -28,7 +28,7 @@ import static androidx.test.espresso.matcher.ViewMatchers.withClassName;
 import static androidx.test.espresso.matcher.ViewMatchers.withId;
 
 @RunWith(AndroidJUnit4.class)
-public class Driven {
+public class DataDriven {
 
     @Rule
     public ActivityTestRule<MainActivity> mainActivityActivityTestRule =

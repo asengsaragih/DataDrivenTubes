@@ -143,4 +143,5 @@
     <string name="cicil_activity_empty_total">Jumlah tidak boleh 0</string>
     <string name="cicil_activity_bigger_cicil_then_total">Cicil tidak boleh melebihi utang</string>
     <string name="leave">Keluar</string>
+    <string name="tag_chart">Chart Tag</string>
 </resources>
