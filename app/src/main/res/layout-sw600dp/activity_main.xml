@@ -85,6 +85,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             style="@style/Widget.MaterialComponents.BottomAppBar"
+            app:backgroundTint="@color/colorPrimaryDark"
             android:backgroundTint="@color/colorPrimaryDark"
             android:layout_gravity="bottom"
             app:fabAlignmentMode="center"
@@ -99,7 +100,7 @@
             android:layout_height="wrap_content"
             android:src="@drawable/ic_add_24dp"
             android:backgroundTint="@color/colorPrimaryDark"
-            app:layout_anchor="@id/bottom_app_bar"/>
+            app:layout_anchor="@id/bottom_app_bar" />
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

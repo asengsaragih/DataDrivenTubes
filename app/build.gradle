@@ -31,7 +31,6 @@ android {
                 + new Date().format('ddMMyy'))
 
         resConfigs "en", "id"
-        vectorDrawables.useSupportLibrary = true
     }
 
     signingConfigs {
