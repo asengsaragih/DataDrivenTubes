@@ -240,7 +240,7 @@ public class MeminjamMainFragment extends Fragment implements LoaderManager.Load
                 if (rowAffected == 0) {
                     Toast.makeText(getActivity(), getString(R.string.main_activity_update_failed), Toast.LENGTH_SHORT).show();
                 } else {
-                    Toast.makeText(getActivity(), getString(R.string.main_activity_update_success), Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getActivity(), getString(R.string.main_activity_paid_off), Toast.LENGTH_SHORT).show();
                 }
                 getActivity().recreate();
                 alertDialog.cancel();

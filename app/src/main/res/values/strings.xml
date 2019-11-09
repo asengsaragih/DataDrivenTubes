@@ -144,4 +144,5 @@
     <string name="cicil_activity_bigger_cicil_then_total">Cicil tidak boleh melebihi utang</string>
     <string name="leave">Keluar</string>
     <string name="tag_chart">Chart Tag</string>
+    <string name="main_activity_paid_off">Utang Telah Lunas</string>
 </resources>
